@@ -1,0 +1,4 @@
+flask==3.0.3
+pytest==8.3.3
+ruff==0.6.9
+codespell==2.3.0

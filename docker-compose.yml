@@ -1,0 +1,7 @@
+services:
+  app:
+    image: ${IMAGE}:${VERSION}
+    ports:
+      - "8000:8000"
+    environment:
+      APP_ENV: ${APP_ENV}
