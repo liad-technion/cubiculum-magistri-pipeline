@@ -10,7 +10,7 @@ pipeline {
     }
 
     environment {
-        IMAGE = 'devtwist/cubiculum-magistri-app:latest'
+        IMAGE = 'devtwist/cubiculum-magistri-app'
     }
 
     stages {
